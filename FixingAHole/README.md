@@ -1,4 +1,4 @@
-##03 - Fixing a Hole
+## 03 - Fixing a Hole
 
 
 You've been called in to help another Gopher on a project that has a failing test. You'll need to run the tests, figure out what's wrong, fix the problem, and make sure the tests pass.
