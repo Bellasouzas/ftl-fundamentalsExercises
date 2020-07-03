@@ -4,4 +4,6 @@ This repository is the answer of exercise list from [Bitfield Repository](https:
 
 This exercise list is about fundamentals TDD Golang.
 
+i could practice my knowledge about introduction of test in golang.
+
 
