@@ -1,4 +1,4 @@
-##01 - Testing Times
+## 01 - Testing Times
 
 
 In this exercise, all we need to do is make sure our Go environment is set up and everything is working right.
