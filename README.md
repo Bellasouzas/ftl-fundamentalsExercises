@@ -1,10 +1,11 @@
 ## About 
 
-This repository is the answer of exercise list from [Bitfield Repository](https://github.com/bitfield/ftl-fundamentals).
 
-This exercise list is about fundamentals TDD Golang.
+This repository presents solutions for exercises in the [Bitfield's list Repository](https://github.com/bitfield/ftl-fundamentals).
 
-I could practice my knowledge about introduction of test in golang.
+This exercise list is about TDD fundamentals in Golang.
+
+I can practice my knowledge on introduction in testing in golang.
 
 * [01 - Testing Times](https://github.com/Bellasouzas/ftl-fundamentalsExercises/tree/master/testingTime)
 * [02 - Getting in Shape](https://github.com/Bellasouzas/ftl-fundamentalsExercises/tree/master/GettingInShape)
