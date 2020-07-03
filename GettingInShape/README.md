@@ -1,4 +1,4 @@
-##02 - Getting in Shape
+## 02 - Getting in Shape
 
 The next thing to do is ensure that our Go code is formatted correctly. All Go code is formatted in a standard way, using a tool called gofmt (pronounced, in case you were wondering, 'go-fumpt'). In this exercise we'll see how to use it to check and reformat our code (if necessary).
 
